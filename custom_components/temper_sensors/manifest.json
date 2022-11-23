@@ -1,0 +1,10 @@
+{
+  "domain": "temper_sensors",
+  "name": "TEMPer Sensors for Temperature and Humidity",
+  "documentation": "https://github.com/eode/temper-sensors",
+  "issue_tracker": "https://github.com/eode/temper-sensors/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@eode"],
+  "requirements": []
+}
