@@ -2,7 +2,7 @@
 
 | Platform | Description |
 | -------- | ------------ |
-| sensor   | Creates sensor entities for each PCSensor TEMPer USB device plugged into your system |
+| sensor   | Creates temperature and/or humidity sensor entities for each PCSensor TEMPer USB device plugged into your system |
 
 This sensor reads PCSensor TEMPer devices, which are simple USB
 temperature and humidity sensors.  There are various revisions of
