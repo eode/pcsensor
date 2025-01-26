@@ -1,5 +1,9 @@
 # PCSensor TEMPer devices
 
+| Platform | Description |
+| -------- | ------------ |
+| sensor   | Creates sensor entities for each PCSensor TEMPer USB device plugged into your system |
+
 This sensor reads PCSensor TEMPer devices, which are simple USB
 temperature and humidity sensors.  There are various revisions of
 the hardware, and this code supports many of them -- specifically,
@@ -32,12 +36,11 @@ different device.
 
 ## Installation
 
-Copy this folder to `<config_dir>/custom_components/pcsensor/`.
+Copy `custom_components/pcsensor` to `<HA config_dir>/custom_components/`.
 
 Add the following to your `configuration.yaml` file:
 
 ```yaml
-# Example configuration.yaml entry
 sensor:
   - platform: pcsensor
 ```
