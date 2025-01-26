@@ -24,6 +24,8 @@ with the hardware in a way that prevents this behavior.  ..which is
 totally possible, as there's no documentation for interacting with
 the sensor.  Some people just want to see the world burn.
 
+That said, for some, this hardware may just be "good enough."
+
 ### Not Unique
 The devices have no unique identifier, at all.  Every TEMPer device
 of one hardware revision looks like every other TEMPer device of that
