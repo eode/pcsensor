@@ -14,6 +14,9 @@ There are two major caveats to using these devices.  I assure you,
 I'm only coding this because I lack other convenient temperature
 sensors.  I should really just spend $30 and get a different one.
 
+**Edit:** ..which I have, and have also made an integration for at
+[eode/usbtemp]()
+
 ### Inaccuracy
 Be forewarned -- these devices have a flaw (or there is an 
 implementation issue across multiple drivers in various programming 
